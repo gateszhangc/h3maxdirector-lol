@@ -8,5 +8,7 @@ debug
 node_modules
 .cursorrules
 .git
+.env*
+!.env.example
 vercel.json
 wrangler.toml
