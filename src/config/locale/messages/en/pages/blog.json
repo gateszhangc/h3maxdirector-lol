@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "title": "Blog",
+    "description": "Creative workflows, prompting guides, and H3 Max Director product updates."
+  },
+  "page": {
+    "title": "H3 Max Director Guides",
+    "sections": {
+      "blog": {
+        "id": "blog",
+        "title": "Blog",
+        "description": "Learn how to direct continuous AI video with live prompts and persistent story context."
+      }
+    }
+  },
+  "messages": {
+    "all": "All",
+    "no_content": "No Content",
+    "crumb": "Blog",
+    "toc": "Table of Contents"
+  }
+}

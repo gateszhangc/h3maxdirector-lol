@@ -1,0 +1,21 @@
+﻿<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="acc" x1="96" y1="96" x2="416" y2="416" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF7A8A"/>
+      <stop offset="1" stop-color="#E6335F"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="120" fill="#0D0C0C"/>
+  <rect x="24" y="24" width="464" height="464" rx="112" stroke="#26221F" stroke-width="4"/>
+  <!-- motion lines (background) -->
+  <g opacity="0.9" stroke="#FB5582" stroke-width="20" stroke-linecap="round">
+    <line x1="128" y1="112" x2="230" y2="112"/>
+    <line x1="128" y1="400" x2="282" y2="400"/>
+  </g>
+  <!-- H-shaped pillars -->
+  <rect x="126" y="150" width="46" height="212" rx="23" fill="url(#acc)"/>
+  <rect x="340" y="150" width="46" height="212" rx="23" fill="url(#acc)"/>
+  <!-- play triangle as H crossbar -->
+  <path d="M224 180 L370 256 L224 332 Z" fill="#FFFFFF"/>
+  <circle cx="398" cy="396" r="20" fill="#FB5582"/>
+</svg>

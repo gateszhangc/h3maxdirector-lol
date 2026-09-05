@@ -1,0 +1,205 @@
+{
+  "metadata": {
+    "title": "Pricing — H3 Max Director",
+    "description": "Choose an H3 Max Director access plan for continuous, prompt-directed video."
+  },
+  "page": {
+    "title": "H3 Max Director Pricing",
+    "sections": {
+      "pricing": {
+        "id": "pricing",
+        "title": "Choose your plan",
+        "description": "Choose the access level that fits your realtime directing workflow.",
+        "groups": [
+          {
+            "name": "monthly",
+            "title": "Monthly",
+            "is_featured": true
+          },
+          {
+            "name": "yearly",
+            "title": "Yearly"
+          }
+        ],
+        "items": [
+          {
+            "title": "Starter",
+            "description": "For creators starting their first directed video sessions.",
+            "features_title": "Includes",
+            "features": [
+              "Access to H3 Max Director",
+              "Continuous realtime sessions",
+              "Live prompt direction",
+              "Optional first-frame input",
+              "Character and setting continuity"
+            ],
+            "interval": "month",
+            "amount": 900,
+            "currency": "USD",
+            "price": "$9",
+            "original_price": "",
+            "unit": "/ month",
+            "is_featured": false,
+            "tip": "Billed monthly",
+            "button": {
+              "title": "Get Starter Monthly",
+              "url": "/#pricing",
+              "icon": "ArrowRight"
+            },
+            "product_id": "h3max-starter-monthly",
+            "product_name": "H3 Max Director — Starter Monthly",
+            "plan_name": "Starter",
+            "group": "monthly"
+          },
+          {
+            "title": "Pro",
+            "description": "For teams directing more ambitious interactive stories.",
+            "label": "Popular",
+            "features_title": "Everything in Starter, plus",
+            "features": [
+              "Priority session access",
+              "Expanded directing workflow",
+              "Advanced continuity workflows",
+              "Commercial license"
+            ],
+            "interval": "month",
+            "amount": 1900,
+            "currency": "USD",
+            "price": "$19",
+            "original_price": "",
+            "unit": "/ month",
+            "is_featured": true,
+            "tip": "Billed monthly",
+            "button": {
+              "title": "Get Pro Monthly",
+              "url": "/#pricing",
+              "icon": "ArrowRight"
+            },
+            "product_id": "h3max-pro-monthly",
+            "product_name": "H3 Max Director — Pro Monthly",
+            "plan_name": "Pro",
+            "group": "monthly"
+          },
+          {
+            "title": "Premium",
+            "description": "For studios and brands that need maximum access and control.",
+            "features_title": "Everything in Pro, plus",
+            "features": [
+              "Highest session limits",
+              "Fastest priority access",
+              "Team workspace access",
+              "Dedicated support"
+            ],
+            "interval": "month",
+            "amount": 4900,
+            "currency": "USD",
+            "price": "$49",
+            "original_price": "",
+            "unit": "/ month",
+            "is_featured": false,
+            "tip": "Billed monthly",
+            "button": {
+              "title": "Get Premium Monthly",
+              "url": "/#pricing",
+              "icon": "ArrowRight"
+            },
+            "product_id": "h3max-premium-monthly",
+            "product_name": "H3 Max Director — Premium Monthly",
+            "plan_name": "Premium",
+            "group": "monthly"
+          },
+          {
+            "title": "Starter",
+            "description": "For creators ready to commit to an annual workflow.",
+            "features_title": "Includes",
+            "features": [
+              "Access to H3 Max Director",
+              "Continuous realtime sessions",
+              "Live prompt direction",
+              "Optional first-frame input",
+              "Character and setting continuity"
+            ],
+            "interval": "year",
+            "amount": 9000,
+            "currency": "USD",
+            "price": "$7.50",
+            "original_price": "",
+            "unit": "/ month",
+            "is_featured": false,
+            "tip": "Billed $90 annually",
+            "button": {
+              "title": "Get Starter Yearly",
+              "url": "/#pricing",
+              "icon": "ArrowRight"
+            },
+            "product_id": "h3max-starter-yearly",
+            "product_name": "H3 Max Director — Starter Yearly",
+            "plan_name": "Starter",
+            "group": "yearly"
+          },
+          {
+            "title": "Pro",
+            "description": "For teams producing high-volume content all year.",
+            "label": "Popular",
+            "features_title": "Everything in Starter, plus",
+            "features": [
+              "Priority session access",
+              "Expanded directing workflow",
+              "Advanced continuity workflows",
+              "Commercial license"
+            ],
+            "interval": "year",
+            "amount": 19000,
+            "currency": "USD",
+            "price": "$15.83",
+            "original_price": "",
+            "unit": "/ month",
+            "is_featured": true,
+            "tip": "Billed $190 annually",
+            "button": {
+              "title": "Get Pro Yearly",
+              "url": "/#pricing",
+              "icon": "ArrowRight"
+            },
+            "product_id": "h3max-pro-yearly",
+            "product_name": "H3 Max Director — Pro Yearly",
+            "plan_name": "Pro",
+            "group": "yearly"
+          },
+          {
+            "title": "Premium",
+            "description": "For studios and brands that need maximum output all year.",
+            "features_title": "Everything in Pro, plus",
+            "features": [
+              "Highest session limits",
+              "Fastest priority access",
+              "Team workspace access",
+              "Dedicated support"
+            ],
+            "interval": "year",
+            "amount": 49000,
+            "currency": "USD",
+            "price": "$40.83",
+            "original_price": "",
+            "unit": "/ month",
+            "is_featured": false,
+            "tip": "Billed $490 annually",
+            "button": {
+              "title": "Get Premium Yearly",
+              "url": "/#pricing",
+              "icon": "ArrowRight"
+            },
+            "product_id": "h3max-premium-yearly",
+            "product_name": "H3 Max Director — Premium Yearly",
+            "plan_name": "Premium",
+            "group": "yearly"
+          }
+        ]
+      }
+    }
+  },
+  "messages": {
+    "current_plan": "Current Plan",
+    "processing": "Processing"
+  }
+}

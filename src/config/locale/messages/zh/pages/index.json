@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "title": "H3 Max Director - 实时 AI 视频导演",
+    "description": "使用实时提示词导演连续视频流，同时保持人物、场景与剧情的连贯性。"
+  },
+  "page": {
+    "title": "H3 Max Director - 在故事展开时实时导演",
+    "description": "创建连续视频流，并用自然语言实时决定下一刻发生什么。",
+    "show_sections": [
+      "hero",
+      "features",
+      "workbench",
+      "workflows",
+      "steps",
+      "stats",
+      "faq",
+      "cta"
+    ],
+    "sections": {
+      "hero": {
+        "id": "hero",
+        "block": "hero",
+        "title": "连续视频，实时导演",
+        "description": "H3 Max Director 接收实时提示词，同时保持既有人物、场景和剧情上下文。",
+        "announcement": {
+          "title": "H3 Max Director - 为创作者打造的视频工作台",
+          "url": "/sign-up",
+          "target": "_self"
+        },
+        "buttons": [
+          {
+            "title": "打开工作台",
+            "icon": "Clapperboard",
+            "url": "/sign-up",
+            "target": "_self",
+            "variant": "default",
+            "size": "lg"
+          },
+          {
+            "title": "查看价格",
+            "icon": "Crown",
+            "url": "/pricing",
+            "target": "_self",
+            "variant": "outline",
+            "size": "lg"
+          }
+        ],
+        "tip": "免费开始 - 无需信用卡 - 由 H3 Max Director 驱动",
+        "image": {
+          "src": "/imgs/home/hero-poster.png",
+          "alt": "H3 Max Director AI 视频工作台",
+          "width": 1536,
+          "height": 864
+        },
+        "image_invert": {
+          "src": "/imgs/home/hero-poster.png",
+          "alt": "H3 Max Director AI 视频工作台",
+          "width": 1536,
+          "height": 864
+        }
+      },
+      "features": {
+        "id": "features",
+        "block": "features",
+        "label": "创作控制项",
+        "title": "让控制项始终贴近最初的镜头想法",
+        "description": "MiniMax H3 Max Director 将创作方向、参考图像和渲染选项放在同一个面向制作的工作台中，而不是拆散在彼此割裂的步骤里。",
+        "items": [
+          {
+            "icon": "AlignLeft",
+            "title": "提示词遵循",
+            "description": "用清晰的镜头说明定义主体、动作、光线和节奏，再逐步精修真正重要的细节。"
+          },
+          {
+            "icon": "Video",
+            "title": "镜头运动",
+            "description": "把跟拍、缓慢推进、固定机位或节奏变化直接写入场景方向。"
+          },
+          {
+            "icon": "Frame",
+            "title": "首帧与尾帧",
+            "description": "以参考图像作为动画锚点，并在结束画面重要时引导构图到指定尾帧。"
+          },
+          {
+            "icon": "Users",
+            "title": "角色一致性",
+            "description": "在地点、光线、景别或镜头时刻变化时，仍让核心主体保持可辨识。"
+          },
+          {
+            "icon": "Palette",
+            "title": "艺术指导",
+            "description": "通过材质、配色、纹理和设计语言，为画面研究建立明确的视觉身份。"
+          },
+          {
+            "icon": "Shuffle",
+            "title": "视觉变化",
+            "description": "以明确的节奏、转场和视觉终点，让想法从一种状态有目的地变化到另一种状态。"
+          }
+        ]
+      },
+      "workbench": {
+        "id": "workbench",
+        "block": "features-media",
+        "label": "为下一次迭代而设计",
+        "title": "从文字方向到可讨论画面的更快循环",
+        "description": "许多视频创作决策发生在完整制作尚不现实之前。H3 Max Director 把这种早期探索放进聚焦的工作台，让下一版始终从上一版结果开始。",
+        "image": {
+          "src": "/imgs/home/tpl-06.jpg",
+          "alt": "H3 Max Director 以迭代为先的视频工作台",
+          "width": 832,
+          "height": 1280
+        },
+        "image_position": "right",
+        "items": [
+          {
+            "icon": "PenLine",
+            "title": "一次只调整一项",
+            "description": "每次只调整一个控制项再生成一版，就能看出是哪项选择改变了画面。"
+          },
+          {
+            "icon": "Images",
+            "title": "图生视频锚点",
+            "description": "当静态图承载需要保留的产品或构图时，切换图生视频并保持画面成立。"
+          },
+          {
+            "icon": "Download",
+            "title": "可实际使用的素材",
+            "description": "查看、下载、分享结果，或继续发展成下一个镜头。"
+          }
+        ]
+      },
+      "workflows": {
+        "id": "workflows",
+        "block": "features-media",
+        "label": "适合日常工作流",
+        "title": "从初步方向到值得讨论的创作素材",
+        "description": "用短片尽早让想法可见、比较不同版本，并让下一次创作决策拥有可直接回应的具体内容。",
+        "image": {
+          "src": "/imgs/home/tpl-01.jpg",
+          "alt": "H3 Max Director 日常创作工作流",
+          "width": 832,
+          "height": 1280
+        },
+        "image_position": "left",
+        "items": [
+          {
+            "icon": "Megaphone",
+            "title": "产品广告",
+            "description": "在完整营销制作确定前，先测试主视觉动作、产品特写或视觉开场。"
+          },
+          {
+            "icon": "Smartphone",
+            "title": "社交媒体",
+            "description": "为信息流、短视频和发布节奏，快速制作竖屏、方形或横屏创意测试。"
+          },
+          {
+            "icon": "LayoutDashboard",
+            "title": "分镜预演",
+            "description": "将分镜画面或书面情节变成动态内容，用于创意方案与早期剪辑讨论。"
+          },
+          {
+            "icon": "Film",
+            "title": "角色片段",
+            "description": "在短片序列中探索可重复使用的主体、表演时刻或视觉身份。"
+          },
+          {
+            "icon": "Sparkles",
+            "title": "图像动画化",
+            "description": "从一张静态图开始赋予动作，同时保留让这张图成立的构图。"
+          }
+        ]
+      },
+      "steps": {
+        "id": "steps",
+        "block": "features-media",
+        "label": "三步完成一次创作",
+        "title": "写下镜头，设置控制项，生成并优化",
+        "description": "描述画面如何变化、如何被看见，以及最终片段应该呈现的感受；选择模式、时长、分辨率、画幅与可选的首尾帧，再生成并从更明确的参考出发生成下一次变体。",
+        "image": {
+          "src": "/imgs/home/tpl-08.jpg",
+          "alt": "H3 Max Director 三步创作流程",
+          "width": 1024,
+          "height": 640
+        },
+        "image_position": "right",
+        "items": [
+          {
+            "icon": "Type",
+            "title": "写下镜头",
+            "description": "描述画面如何变化、如何被看见，以及最终片段应该呈现的感受。"
+          },
+          {
+            "icon": "SlidersHorizontal",
+            "title": "设置控制项",
+            "description": "选择模式、时长、分辨率、画幅、提示词扩写、Seed 和可选的首尾帧。"
+          },
+          {
+            "icon": "Play",
+            "title": "生成并优化",
+            "description": "查看输出、下载有用的版本，再从更明确的参考出发生成下一次变体。"
+          }
+        ]
+      },
+      "stats": {
+        "id": "stats",
+        "block": "stats",
+        "label": "输出规格",
+        "title": "选择当前可用的输出设置",
+        "description": "H3 Max Director 实时导演流程的核心控制与连续性能力。",
+        "items": [
+          {
+            "title": "实时",
+            "description": "连续的提示词导演体验"
+          },
+          {
+            "title": "480P/768P",
+            "description": "当前支持的输出分辨率"
+          },
+          {
+            "title": "6 项",
+            "description": "工作台中的创作控制项"
+          },
+          {
+            "title": "Google",
+            "description": "开始前使用 Google 安全登录"
+          }
+        ]
+      },
+      "faq": {
+        "id": "faq",
+        "block": "faq",
+        "title": "常见问题",
+        "description": "关于模式、时长、首尾帧、积分和输出选项的实用说明。",
+        "items": [
+          {
+            "question": "什么是 H3 Max Director？",
+            "answer": "H3 Max Director 创建连续的实时视频流，可响应实时提示词，并保持人物、场景与剧情的连贯性。"
+          },
+          {
+            "question": "Director 与普通短片生成器有什么区别？",
+            "answer": "Director 会持续运行同一个视频流，让每条新提示都能延续之前发生的故事，而不是生成彼此孤立的短片。"
+          },
+          {
+            "question": "H3 Max Director 提供哪些创作控制项？",
+            "answer": "工作台把提示词遵循、镜头运动、首帧与尾帧、角色一致性、艺术指导与视觉变化整合进同一条制作流程。"
+          },
+          {
+            "question": "可以从图片开始创作吗？",
+            "answer": "可以。当静态图已经承载需要保留的产品、角色或构图时，切换到图生视频，添加首帧，并可选设置动作的最终落点。"
+          },
+          {
+            "question": "积分如何计费？",
+            "answer": "进入 Director 工作区前会实时检查当前积分；积分为零时会跳转价格页。"
+          },
+          {
+            "question": "H3 Max Director 面向谁？",
+            "answer": "面向需要在完整制作前测试产品广告、社媒短片、分镜预演、角色片段与动态设计的创作者、品牌与代理商团队。"
+          }
+        ]
+      },
+      "cta": {
+        "id": "cta",
+        "block": "cta",
+        "title": "用一段动态画面推动下一次创作决定",
+        "description": "打开工作台，写下镜头，把最初方向变成可查看的生成结果。",
+        "buttons": [
+          {
+            "title": "打开工作台",
+            "icon": "Zap",
+            "url": "/sign-up",
+            "target": "_self",
+            "variant": "default"
+          },
+          {
+            "title": "查看价格",
+            "icon": "Crown",
+            "url": "/pricing",
+            "target": "_self",
+            "variant": "outline"
+          }
+        ],
+        "className": "bg-transparent"
+      }
+    }
+  }
+}

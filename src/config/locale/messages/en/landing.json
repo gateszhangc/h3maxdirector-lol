@@ -1,0 +1,135 @@
+{
+  "header": {
+    "id": "header",
+    "brand": {
+      "title": "H3 Max Director",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "H3 Max Director",
+        "width": 32,
+        "height": 32
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Features",
+          "url": "/#features"
+        },
+        {
+          "title": "FAQ",
+          "url": "/#faq"
+        },
+        {
+          "title": "Pricing",
+          "url": "/pricing"
+        }
+      ]
+    },
+    "buttons": [],
+    "user_nav": {
+      "show_name": true,
+      "show_credits": true,
+      "show_sign_out": true,
+      "items": [
+        {
+          "title": "Billing",
+          "url": "/settings/billing",
+          "icon": "CreditCard"
+        },
+        {
+          "title": "Activity",
+          "url": "/activity",
+          "icon": "Activity"
+        }
+      ]
+    },
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "footer": {
+    "id": "footer",
+    "brand": {
+      "title": "H3 Max Director",
+      "description": "Direct continuous realtime video with live prompts while preserving characters, settings, and story continuity.",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "H3 Max Director",
+        "width": 32,
+        "height": 32
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "Product",
+          "children": [
+            {
+              "title": "Features",
+              "url": "/#features",
+              "target": "_self"
+            },
+            {
+              "title": "FAQ",
+              "url": "/#faq",
+              "target": "_self"
+            },
+            {
+              "title": "Pricing",
+              "url": "/pricing",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "children": [
+            {
+              "title": "Docs",
+              "url": "/docs",
+              "target": "_self"
+            },
+            {
+              "title": "Updates",
+              "url": "/updates",
+              "target": "_self"
+            },
+            {
+              "title": "Contact",
+              "url": "mailto:support@h3maxdirector.lol",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "Mail",
+          "icon": "Mail",
+          "url": "mailto:support@h3maxdirector.lol",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "Privacy Policy",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "Terms of Service",
+          "url": "/terms-of-service"
+        }
+      ]
+    },
+    "show_theme": true,
+    "show_locale": true,
+    "show_built_with": false
+  }
+}

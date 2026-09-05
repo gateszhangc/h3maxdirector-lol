@@ -1,0 +1,84 @@
+{
+  "metadata": {
+    "title": "H3 Max Director Gallery",
+    "description": "Explore worlds, characters, and story premises designed for continuous live direction."
+  },
+  "page": {
+    "title": "Gallery",
+    "sections": {
+      "showcases": {
+        "id": "showcases",
+        "title": "Made for every kind of motion",
+        "description": "Explore visual directions built around text, image, video, and audio references.",
+        "groups": [
+          { "name": "all", "title": "All" },
+          { "name": "cinematic", "title": "Cinematic" },
+          { "name": "creative", "title": "Creative" },
+          { "name": "commercial", "title": "Commercial" }
+        ],
+        "items": [
+          {
+            "title": "Golden Field",
+            "description": "Continuous story · 16:9",
+            "url": "/#generator",
+            "image": {
+              "src": "/imgs/home/tpl-01.jpg",
+              "alt": "Golden field cinematic scene"
+            },
+            "group": "cinematic"
+          },
+          {
+            "title": "Neon Rain",
+            "description": "Image-to-video · 21:9",
+            "url": "/#generator",
+            "image": {
+              "src": "/imgs/home/tpl-02.jpg",
+              "alt": "Neon city in rain"
+            },
+            "group": "cinematic"
+          },
+          {
+            "title": "Corgi Cosmos",
+            "description": "Character motion · 5s",
+            "url": "/#generator",
+            "image": {
+              "src": "/imgs/home/tpl-03.jpg",
+              "alt": "Corgi astronaut"
+            },
+            "group": "creative"
+          },
+          {
+            "title": "Particle Muse",
+            "description": "Anime world · 768p",
+            "url": "/#generator",
+            "image": {
+              "src": "/imgs/home/tpl-04.jpg",
+              "alt": "Anime particle muse"
+            },
+            "group": "creative"
+          },
+          {
+            "title": "Aqua Perfume",
+            "description": "Product film · 21:9",
+            "url": "/#generator",
+            "image": {
+              "src": "/imgs/home/tpl-05.jpg",
+              "alt": "Perfume product film"
+            },
+            "group": "commercial"
+          },
+          {
+            "title": "Snow Blade",
+            "description": "Persistent character · 768p",
+            "url": "/#generator",
+            "image": {
+              "src": "/imgs/home/tpl-06.jpg",
+              "alt": "Warrior in snow"
+            },
+            "group": "cinematic"
+          }
+        ]
+      }
+    }
+  }
+}

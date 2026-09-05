@@ -1,0 +1,37 @@
+﻿/* H3 Max Director brand dark theme (shared by public pages & auth modal) */
+.h3-brand {
+  color-scheme: dark;
+  --background: oklch(14.5% 0 0);
+  --foreground: oklch(96.1% 0 0);
+  --card: oklch(18.6% 0 0);
+  --card-foreground: oklch(96.1% 0 0);
+  --popover: oklch(18.6% 0 0);
+  --popover-foreground: oklch(96.1% 0 0);
+  --primary: oklch(68.5% 0.202 8);
+  --primary-foreground: oklch(14.5% 0 0);
+  --secondary: oklch(24.2% 0 0);
+  --secondary-foreground: oklch(94.4% 0 0);
+  --muted: oklch(24.2% 0 0);
+  --muted-foreground: oklch(72.2% 0 0);
+  --accent: oklch(75.2% 0.172 353);
+  --accent-foreground: oklch(16% 0 0);
+  --destructive: oklch(63.7% 0.208 25);
+  --destructive-foreground: oklch(97% 0 0);
+  --border: oklch(27.2% 0 0);
+  --input: oklch(27.2% 0 0);
+  --ring: oklch(68.5% 0.202 8);
+  --chart-1: oklch(68.5% 0.202 8);
+  --chart-2: oklch(75.2% 0.172 353);
+  --chart-3: oklch(70% 0.14 320);
+  --chart-4: oklch(76% 0.12 40);
+  --chart-5: oklch(64% 0.1 300);
+  --sidebar: oklch(16.8% 0 0);
+  --sidebar-foreground: oklch(96.1% 0 0);
+  --sidebar-primary: oklch(68.5% 0.202 8);
+  --sidebar-primary-foreground: oklch(14.5% 0 0);
+  --sidebar-accent: oklch(24.2% 0 0);
+  --sidebar-accent-foreground: oklch(94.4% 0 0);
+  --sidebar-border: oklch(27.2% 0 0);
+  --sidebar-ring: oklch(68.5% 0.202 8);
+  --radius: 0.75rem;
+}

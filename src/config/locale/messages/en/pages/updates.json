@@ -1,0 +1,15 @@
+{
+  "metadata": {
+    "title": "Update Logs",
+    "description": "Follow H3 Max Director workflow and interface improvements."
+  },
+  "page": {
+    "sections": {
+      "updates": {
+        "id": "updates",
+        "title": "Product Updates",
+        "description": "New creation controls, visual workflows, and platform improvements."
+      }
+    }
+  }
+}

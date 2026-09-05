@@ -1,0 +1,286 @@
+{
+  "metadata": {
+    "title": "H3 Max Director - Realtime AI Video Director",
+    "description": "Direct continuous realtime video with live prompts while preserving characters, settings, and story continuity."
+  },
+  "page": {
+    "title": "H3 Max Director - Direct the story while it unfolds",
+    "description": "Create a continuous video stream and steer the next moment with live natural-language directions.",
+    "show_sections": [
+      "hero",
+      "features",
+      "workbench",
+      "workflows",
+      "steps",
+      "stats",
+      "faq",
+      "cta"
+    ],
+    "sections": {
+      "hero": {
+        "id": "hero",
+        "block": "hero",
+        "title": "Continuous video, directed in realtime",
+        "description": "H3 Max Director responds to live prompts while preserving established characters, settings, and story context.",
+        "announcement": {
+          "title": "H3 Max Director - a workbench built for creators",
+          "url": "/sign-up",
+          "target": "_self"
+        },
+        "buttons": [
+          {
+            "title": "Open the workbench",
+            "icon": "Clapperboard",
+            "url": "/sign-up",
+            "target": "_self",
+            "variant": "default",
+            "size": "lg"
+          },
+          {
+            "title": "View pricing",
+            "icon": "Crown",
+            "url": "/pricing",
+            "target": "_self",
+            "variant": "outline",
+            "size": "lg"
+          }
+        ],
+        "tip": "Free to start - No credit card required - Powered by H3 Max Director",
+        "image": {
+          "src": "/imgs/home/hero-poster.png",
+          "alt": "H3 Max Director AI video workbench",
+          "width": 1536,
+          "height": 864
+        },
+        "image_invert": {
+          "src": "/imgs/home/hero-poster.png",
+          "alt": "H3 Max Director AI video workbench",
+          "width": 1536,
+          "height": 864
+        }
+      },
+      "features": {
+        "id": "features",
+        "block": "features",
+        "label": "Live creative control",
+        "title": "Guide one evolving story instead of generating isolated clips",
+        "description": "Establish the world once, then use live prompts to change the action without abandoning its continuity.",
+        "items": [
+          {
+            "icon": "AlignLeft",
+            "title": "Live prompt direction",
+            "description": "Introduce the next action, reveal, location, or camera decision while the stream is running."
+          },
+          {
+            "icon": "Video",
+            "title": "Camera motion",
+            "description": "Write tracking shots, slow pushes, locked-off frames or dynamic rhythms directly into the scene direction."
+          },
+          {
+            "icon": "Frame",
+            "title": "Optional first frame",
+            "description": "Anchor the initial cast, setting, composition, and visual style with one image."
+          },
+          {
+            "icon": "Users",
+            "title": "Character consistency",
+            "description": "Keep core subjects recognizable as locations, light, framing or camera moments change."
+          },
+          {
+            "icon": "Palette",
+            "title": "Art direction",
+            "description": "Establish a clear visual identity through materials, palettes, texture and design language."
+          },
+          {
+            "icon": "Shuffle",
+            "title": "Story continuity",
+            "description": "Carry prior events and unresolved threads into every new direction."
+          }
+        ]
+      },
+      "workbench": {
+        "id": "workbench",
+        "block": "features-media",
+        "label": "Designed for the next direction",
+        "title": "Watch, respond, and move the story forward",
+        "description": "H3 Max Director turns the previous moment into context for the next prompt, creating one continuous creative loop.",
+        "image": {
+          "src": "/imgs/home/tpl-06.jpg",
+          "alt": "H3 Max Director iteration-first video workbench",
+          "width": 832,
+          "height": 1280
+        },
+        "image_position": "right",
+        "items": [
+          {
+            "icon": "PenLine",
+            "title": "One direction at a time",
+            "description": "React to what appears on screen and specify the next meaningful beat."
+          },
+          {
+            "icon": "Images",
+            "title": "First-frame anchor",
+            "description": "Start from a still when the character, setting, or composition already matters."
+          },
+          {
+            "icon": "Download",
+            "title": "Persistent context",
+            "description": "Keep developing the same cast, world, and story rather than starting over."
+          }
+        ]
+      },
+      "workflows": {
+        "id": "workflows",
+        "block": "features-media",
+        "label": "Built for daily workflows",
+        "title": "From opening premise to an evolving world",
+        "description": "Continuous sessions let every new creative decision respond to the story already on screen.",
+        "image": {
+          "src": "/imgs/home/tpl-01.jpg",
+          "alt": "H3 Max Director daily creative workflows",
+          "width": 832,
+          "height": 1280
+        },
+        "image_position": "left",
+        "items": [
+          {
+            "icon": "Megaphone",
+            "title": "Product ads",
+            "description": "Test hero motion, product close-ups and visual openings before full production."
+          },
+          {
+            "icon": "Smartphone",
+            "title": "Social media",
+            "description": "Produce vertical, square or landscape creative tests for feeds and release cadence."
+          },
+          {
+            "icon": "LayoutDashboard",
+            "title": "Storyboard pre-vis",
+            "description": "Turn boards or written beats into motion for pitches and early edits."
+          },
+          {
+            "icon": "Film",
+            "title": "Interactive characters",
+            "description": "Develop recurring characters, relationships, and performance beats across the session."
+          },
+          {
+            "icon": "Sparkles",
+            "title": "Image animation",
+            "description": "Bring motion to a single still while preserving the composition that makes it work."
+          }
+        ]
+      },
+      "steps": {
+        "id": "steps",
+        "block": "features-media",
+        "label": "Three steps to a live session",
+        "title": "Establish, direct, and branch",
+        "description": "Describe the world, choose resolution and aspect ratio, add an optional first frame, then direct each new beat from the chat workspace.",
+        "image": {
+          "src": "/imgs/home/tpl-08.jpg",
+          "alt": "H3 Max Director three step creation flow",
+          "width": 1024,
+          "height": 640
+        },
+        "image_position": "right",
+        "items": [
+          {
+            "icon": "Type",
+            "title": "Establish the world",
+            "description": "Describe the cast, setting, tone, visual language, and opening situation."
+          },
+          {
+            "icon": "SlidersHorizontal",
+            "title": "Set the controls",
+            "description": "Choose 480p or 768p, select an aspect ratio, and optionally add a first frame."
+          },
+          {
+            "icon": "Play",
+            "title": "Direct and branch",
+            "description": "Watch the stream, send the next direction, and keep the story moving."
+          }
+        ]
+      },
+      "stats": {
+        "id": "stats",
+        "block": "stats",
+        "label": "Director session",
+        "title": "The essentials for continuous direction",
+        "description": "Core controls and continuity features available to the Director workflow.",
+        "items": [
+          {
+            "title": "Realtime",
+            "description": "continuous prompt-directed experience"
+          },
+          {
+            "title": "480P/768P",
+            "description": "current output resolutions"
+          },
+          {
+            "title": "6",
+            "description": "live direction and continuity capabilities"
+          },
+          {
+            "title": "Google",
+            "description": "secure sign-in before starting"
+          }
+        ]
+      },
+      "faq": {
+        "id": "faq",
+        "block": "faq",
+        "title": "FAQ",
+        "description": "Practical notes on live direction, continuity, first frames, and access.",
+        "items": [
+          {
+            "question": "What is H3 Max Director?",
+            "answer": "H3 Max Director creates a continuous realtime video stream that responds to live prompts while preserving characters, settings, and story continuity."
+          },
+          {
+            "question": "How is Director different from a clip generator?",
+            "answer": "Director keeps one stream running so each new prompt can build on what already happened instead of producing an isolated clip."
+          },
+          {
+            "question": "What creative controls does H3 Max Director offer?",
+            "answer": "The setup provides an opening prompt, an optional first frame, 480p or 768p resolution, and 16:9, 9:16, or 1:1 aspect ratios before moving into live direction."
+          },
+          {
+            "question": "Can I start from an image?",
+            "answer": "Yes. A first frame can establish the initial character, setting, composition, and style for the continuous session."
+          },
+          {
+            "question": "How do credits work?",
+            "answer": "Your current credit balance is checked before the Director workspace opens. If the balance is empty, the app sends you to pricing."
+          },
+          {
+            "question": "Who is H3 Max Director for?",
+            "answer": "Creators, studios, storytellers, and teams that want to guide interactive comedy, drama, games, broadcasts, animation, or ambient worlds in realtime."
+          }
+        ]
+      },
+      "cta": {
+        "id": "cta",
+        "block": "cta",
+        "title": "Direct what happens next",
+        "description": "Establish the world, sign in with Google, and enter the live Director experience.",
+        "buttons": [
+          {
+            "title": "Open the workbench",
+            "icon": "Zap",
+            "url": "/sign-up",
+            "target": "_self",
+            "variant": "default"
+          },
+          {
+            "title": "View pricing",
+            "icon": "Crown",
+            "url": "/pricing",
+            "target": "_self",
+            "variant": "outline"
+          }
+        ],
+        "className": "bg-transparent"
+      }
+    }
+  }
+}

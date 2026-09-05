@@ -1,0 +1,135 @@
+{
+  "header": {
+    "id": "header",
+    "brand": {
+      "title": "H3 Max Director",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "H3 Max Director",
+        "width": 32,
+        "height": 32
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "功能",
+          "url": "/#features"
+        },
+        {
+          "title": "常见问题",
+          "url": "/#faq"
+        },
+        {
+          "title": "价格",
+          "url": "/pricing"
+        }
+      ]
+    },
+    "buttons": [],
+    "user_nav": {
+      "show_name": true,
+      "show_credits": true,
+      "show_sign_out": true,
+      "items": [
+        {
+          "title": "账单",
+          "url": "/settings/billing",
+          "icon": "CreditCard"
+        },
+        {
+          "title": "活动",
+          "url": "/activity",
+          "icon": "Activity"
+        }
+      ]
+    },
+    "show_sign": true,
+    "show_theme": true,
+    "show_locale": true
+  },
+  "footer": {
+    "id": "footer",
+    "brand": {
+      "title": "H3 Max Director",
+      "description": "使用实时提示词导演连续视频流，同时保持人物、场景与剧情的连贯性。",
+      "logo": {
+        "src": "/logo.png",
+        "alt": "H3 Max Director",
+        "width": 32,
+        "height": 32
+      },
+      "url": "/"
+    },
+    "nav": {
+      "items": [
+        {
+          "title": "产品",
+          "children": [
+            {
+              "title": "功能",
+              "url": "/#features",
+              "target": "_self"
+            },
+            {
+              "title": "常见问题",
+              "url": "/#faq",
+              "target": "_self"
+            },
+            {
+              "title": "价格",
+              "url": "/pricing",
+              "target": "_self"
+            }
+          ]
+        },
+        {
+          "title": "支持",
+          "children": [
+            {
+              "title": "文档",
+              "url": "/docs",
+              "target": "_self"
+            },
+            {
+              "title": "更新",
+              "url": "/updates",
+              "target": "_self"
+            },
+            {
+              "title": "联系我们",
+              "url": "mailto:support@h3maxdirector.lol",
+              "target": "_self"
+            }
+          ]
+        }
+      ]
+    },
+    "social": {
+      "items": [
+        {
+          "title": "邮件",
+          "icon": "Mail",
+          "url": "mailto:support@h3maxdirector.lol",
+          "target": "_self"
+        }
+      ]
+    },
+    "agreement": {
+      "items": [
+        {
+          "title": "隐私政策",
+          "url": "/privacy-policy"
+        },
+        {
+          "title": "服务条款",
+          "url": "/terms-of-service"
+        }
+      ]
+    },
+    "show_theme": true,
+    "show_locale": true,
+    "show_built_with": false
+  }
+}
